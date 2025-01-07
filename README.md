@@ -1,5 +1,7 @@
 # Android device tree for Blackview BV4900 (BV4900)
 
+compiles successfully but no touch as i cant find the touchscreen driver
+
 ```
 #
 # Copyright (C) 2025 The Android Open Source Project
