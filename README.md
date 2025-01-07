@@ -1,6 +1,6 @@
 # Android device tree for Blackview BV4900 (BV4900)
 
-compiles successfully but no touch as i cant find the touchscreen driver
+compiles successfully but no touch as i cant find the touchscreen driver and i cant seem to mount any partitions like system vendor or super
 
 ```
 #
